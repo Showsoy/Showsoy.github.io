@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "카테고리 들어가나 테스트"
+title:  "Science of Gravity"
 date:   2016-03-30 19:45:31 +0530
-categories: knowledge
+categories: science
 author: "Chandler Bing"
 ---
 "Could I be anymore pulling ?"
