@@ -7,12 +7,12 @@
 
 # Site settings
 title: Showsoy
-email: none
-description: The Liberal Jekyll Theme
+email:
+description:
 baseurl: 
 url: 
-twitter_username: none
-github_username: none
+twitter_username:
+github_username:
 paginate: 5
 theme-dark: false #Set to true to change to dark website theme
 
