@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Ä«Å×°í¸® µé¾î°¡³ª Å×½ºÆ®"
-date:   2016-03-30 19:45:31 +0530
-category: knowledge
+title: "ì¹´í…Œê³ ë¦¬ ë“¤ì–´ê°€ë‚˜ í…ŒìŠ¤íŠ¸"
+date: 2016-03-30 19:45:31 +0530
+categories: knowledge
 author: "Chandler Bing"
 ---
 "Could I be anymore pulling ?"
