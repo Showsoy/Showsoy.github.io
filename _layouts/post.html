@@ -4,8 +4,9 @@ layout: default
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title" itemprop="name headline"><a class="post-title-link"  href="{{page.url}}">{{ page.title }}</a></h1>
+    <h1 class="post-title" itemprop="name headline"><a class=""  href="{{page.url}}">{{ page.title }}</a></h1>
   <center>  <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></p>
+  <!--
     {% if page.author %}
      <div class="">
        <center><p ><strong><span class="authorKeyword">Author</span><span class="small-site-title"> <h2 style="letter-spacing: 3px !important;
@@ -14,12 +15,13 @@ layout: default
      </div>
      {% endif %}
    </center>
+  -->
   </header>
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
-
+<!--
   <footer class="postNavigation">
   {% if page.previous.url %}
     <a class="postPrev" href="{{page.previous.url}}">
@@ -32,6 +34,6 @@ layout: default
     </a>
   {% endif %}
   </footer>
-
+-->
 
 </article>
