@@ -18,7 +18,6 @@ author: "showsoy"
 <p style="padding-left: 30px;">&nbsp;</p>
 <h1>소프트웨어 개발방법론 (Software Development Methodology)</h1>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 <h4>○소프트웨어 개발의 전 단계에 대한 경험을 공학적 기법으로 정형화하여 체계를 잡고 표준화한 이론</h4>
 <h4><br />○개발방법론의 진화&nbsp; 구조적 기법 -&gt; 정보공학 기법 -&gt; 객체지향 기법 -&gt; CBD기법 -&gt; Agile (적시성 중시)</h4>
 <h4><br />○개발방법론의 구성요소&nbsp;</h4>
