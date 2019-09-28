@@ -9,8 +9,8 @@
 title: Showsoy
 email: -
 description: The Liberal Jekyll Theme
-baseurl: "" # the subpath of your site, e.g. /blog
-url: /
+baseurl: /
+url: showsoy.github.io
 twitter_username: -
 github_username: -
 paginate: 5
