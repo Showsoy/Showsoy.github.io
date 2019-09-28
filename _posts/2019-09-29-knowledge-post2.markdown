@@ -16,6 +16,7 @@ author: "showsoy"
 <p style="padding-left: 30px;">1. Active 활동 : 트랜잭션이 Begin_Trans부터 실행을 시작하였거나 실행 중인 상태, Partially committed 부분 완료,&nbsp;트랜잭션이 마지막 명령문을 실행한 직후의 상태<br />2. Failed 실패 :&nbsp;정상적 실행을 더 이상 계속할 수 없어서 중단한 상태<br />3. Aborted 철회 :&nbsp;트랜잭션에 실패하여 Rollback 연산을 수행한 상태<br />4. Committed 완료 : 트랜잭션이 실행을 성공적으로 완료하여 Commit 연산을 수행한 상태</p>
 <p>&nbsp;</p>
 <h4>○&nbsp;트랜잭션의 상태</h4>
+<img src="/img/transaction.png" style="width:800px;padding-left:60px;"/>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h1>Database의 독립성</h1><br/>
