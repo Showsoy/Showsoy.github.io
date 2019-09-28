@@ -2,7 +2,7 @@
 layout: post
 title: "개발모델, 개발방법론"
 date: 2019-09-29
-categoriy: knowledge
+categories: knowledge
 author: "showsoy"
 ---
 <h1>SDLC (System Development Life Cycle)</h1>
