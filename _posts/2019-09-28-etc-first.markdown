@@ -1,9 +1,16 @@
 ---
 layout: post
 title: "First post"
-date: 2019-09-28 19:45:31 +0530
+date: 2019-09-28
 categories: etc
 author: "showsoy"
 ---
+<pre>
 The first thing I'm gonna post in category Knowledge 
 Is to post this category because 그냥
+
+
+so..
+I'm done editing this blog.
+09.29. 00:50
+</pre>
