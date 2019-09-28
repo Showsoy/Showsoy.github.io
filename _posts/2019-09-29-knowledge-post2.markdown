@@ -1,44 +1,44 @@
 ---
 layout: post
-title: "Æ®·£Àè¼Ç, ¹«°á¼º"
+title: "íŠ¸ëžœìž­ì…˜, ë¬´ê²°ì„±"
 date: 2019-09-29
 categories: knowledge
 author: "showsoy"
 ---
-<h1>Æ®·£Àè¼Ç (transaction)</h1>
+<h1>íŠ¸ëžœìž­ì…˜ (transaction)</h1>
 <pre>
-  - Æ®·£Àè¼ÇÀÌ¶õ?
-    Æ®·£Àè¼ÇÀº ÇÏ³ªÀÇ ³í¸®Àû ±â´ÉÀ» ¼öÇàÇÏ±â À§ÇÑ ÀÛ¾÷ÀÇ ´ÜÀ§
-    µ¥ÀÌÅÍº£ÀÌ½ºÀÇ ÀÏ°üµÈ »óÅÂ¸¦ ¶Ç ´Ù¸¥ ÀÏ°üµÈ »óÅÂ·Î º¯È­½ÃÅ´
+  - íŠ¸ëžœìž­ì…˜ì´ëž€?
+    íŠ¸ëžœìž­ì…˜ì€ í•˜ë‚˜ì˜ ë…¼ë¦¬ì  ê¸°ëŠ¥ì„ ìˆ˜í–‰í•˜ê¸° ìœ„í•œ ìž‘ì—…ì˜ ë‹¨ìœ„
+    ë°ì´í„°ë² ì´ìŠ¤ì˜ ì¼ê´€ëœ ìƒíƒœë¥¼ ë˜ ë‹¤ë¥¸ ì¼ê´€ëœ ìƒíƒœë¡œ ë³€í™”ì‹œí‚´
 
-  - Æ®·£Àè¼ÇÀÌ ÇÏ³ªÀÇ ³í¸®Àû ±â´ÉÀ» ¼öÇàÇÏ±â À§ÇØ¼­´Â Æ®·£Àè¼Ç¿¡ Æ÷ÇÔµÈ ¸ðµç ¿¬»êÀÌ ºÒ°¡ºÐÀÇ °ü°è·Î ½ÇÇàµÇ¾î¾ß ÇÑ´Ù. ÀÌ·± ºÒ°¡ºÐ¼ºÀ» ´Þ¼ºÇÏ±â À§ÇØ Æ®·£Àè¼ÇÀÌ °¡Á®¾ß µÉ Æ¯¼ºÀº ´ÙÀ½°ú °°´Ù.
-    Atomicity ¿øÀÚ¼º    
-      ÀÚ½ÅÀÇ ¿¬»êÀº all or nothing ½ÇÇà¸¸ ÀÖ´Ù.
-    Consistency ÀÏ°ü¼º  
-      Æ®·£Àè¼ÇÀÌ ¼º°øÇß´Ù¸é, µ¥ÀÌÅÍº£ÀÌ½º´Â ±× ÀÏ°ü¼ºÀ» À¯ÁöÇØ¾ß ÇÑ´Ù. 
-      ÀÏ°ü¼ºÀº Æ¯Á¤ÇÑ Á¶°ÇÀ» µÎ°í, ±× Á¶°ÇÀ» ¸¸Á·ÇÏ´ÂÁö¸¦ È®ÀÎÇÏ´Â ¹æ½ÄÀ¸·Î °Ë»çÇÒ ¼ö ÀÖ´Ù.
-    Isolation °Ý¸®¼º
-      Æ®·£Àè¼ÇÀÌ ½ÇÇà Áß¿¡ ÀÖ´Â ¿¬»êÀÇ Áß°£ °á°ú´Â ´Ù¸¥ Æ®·£Àè¼ÇÀÌ Á¢±ÙÇÒ ¼ö ¾ø´Ù.
-    Durability ¿µ¼Ó¼º
-      ÀÏ´Ü ½ÇÇàÀ» ¿Ï·áÇÏ¸é ±× °á°ú´Â ¿µ¼ÓÀûÀÌ´Ù.
+  - íŠ¸ëžœìž­ì…˜ì´ í•˜ë‚˜ì˜ ë…¼ë¦¬ì  ê¸°ëŠ¥ì„ ìˆ˜í–‰í•˜ê¸° ìœ„í•´ì„œëŠ” íŠ¸ëžœìž­ì…˜ì— í¬í•¨ëœ ëª¨ë“  ì—°ì‚°ì´ ë¶ˆê°€ë¶„ì˜ ê´€ê³„ë¡œ ì‹¤í–‰ë˜ì–´ì•¼ í•œë‹¤. ì´ëŸ° ë¶ˆê°€ë¶„ì„±ì„ ë‹¬ì„±í•˜ê¸° ìœ„í•´ íŠ¸ëžœìž­ì…˜ì´ ê°€ì ¸ì•¼ ë  íŠ¹ì„±ì€ ë‹¤ìŒê³¼ ê°™ë‹¤.
+    Atomicity ì›ìžì„±    
+      ìžì‹ ì˜ ì—°ì‚°ì€ all or nothing ì‹¤í–‰ë§Œ ìžˆë‹¤.
+    Consistency ì¼ê´€ì„±  
+      íŠ¸ëžœìž­ì…˜ì´ ì„±ê³µí–ˆë‹¤ë©´, ë°ì´í„°ë² ì´ìŠ¤ëŠ” ê·¸ ì¼ê´€ì„±ì„ ìœ ì§€í•´ì•¼ í•œë‹¤. 
+      ì¼ê´€ì„±ì€ íŠ¹ì •í•œ ì¡°ê±´ì„ ë‘ê³ , ê·¸ ì¡°ê±´ì„ ë§Œì¡±í•˜ëŠ”ì§€ë¥¼ í™•ì¸í•˜ëŠ” ë°©ì‹ìœ¼ë¡œ ê²€ì‚¬í•  ìˆ˜ ìžˆë‹¤.
+    Isolation ê²©ë¦¬ì„±
+      íŠ¸ëžœìž­ì…˜ì´ ì‹¤í–‰ ì¤‘ì— ìžˆëŠ” ì—°ì‚°ì˜ ì¤‘ê°„ ê²°ê³¼ëŠ” ë‹¤ë¥¸ íŠ¸ëžœìž­ì…˜ì´ ì ‘ê·¼í•  ìˆ˜ ì—†ë‹¤.
+    Durability ì˜ì†ì„±
+      ì¼ë‹¨ ì‹¤í–‰ì„ ì™„ë£Œí•˜ë©´ ê·¸ ê²°ê³¼ëŠ” ì˜ì†ì ì´ë‹¤.
 
-  - µ¥ÀÌÅÍº£ÀÌ½º¸¦ Á¢±ÙÇÏ¿© °»½Å ¿¬»êÀ» ¼öÇàÇÏ´Â Æ®·£Àè¼ÇÀº ´ÙÀ½°ú °°Àº »óÅÂ Áß ÇÏ³ª¿¡ ¼ÓÇÏ°Ô µÈ´Ù.
-    Active È°µ¿
-      Æ®·£Àè¼ÇÀÌ Begin_TransºÎÅÍ ½ÇÇàÀ» ½ÃÀÛÇÏ¿´°Å³ª ½ÇÇà ÁßÀÎ »óÅÂ
-    Partially committed ºÎºÐ ¿Ï·á
-      Æ®·£Àè¼ÇÀÌ ¸¶Áö¸· ¸í·É¹®À» ½ÇÇàÇÑ Á÷ÈÄÀÇ »óÅÂ
-    Failed ½ÇÆÐ
-      Á¤»óÀû ½ÇÇàÀ» ´õ ÀÌ»ó °è¼ÓÇÒ ¼ö ¾ø¾î¼­ Áß´ÜÇÑ »óÅÂ
-    Aborted Ã¶È¸
-      Æ®·£Àè¼Ç¿¡ ½ÇÆÐÇÏ¿© Rollback ¿¬»êÀ» ¼öÇàÇÑ »óÅÂ
-    Committed ¿Ï·á
-      Æ®·£Àè¼ÇÀÌ ½ÇÇàÀ» ¼º°øÀûÀ¸·Î ¿Ï·áÇÏ¿© Commit ¿¬»êÀ» ¼öÇàÇÑ »óÅÂ
+  - ë°ì´í„°ë² ì´ìŠ¤ë¥¼ ì ‘ê·¼í•˜ì—¬ ê°±ì‹  ì—°ì‚°ì„ ìˆ˜í–‰í•˜ëŠ” íŠ¸ëžœìž­ì…˜ì€ ë‹¤ìŒê³¼ ê°™ì€ ìƒíƒœ ì¤‘ í•˜ë‚˜ì— ì†í•˜ê²Œ ëœë‹¤.
+    Active í™œë™
+      íŠ¸ëžœìž­ì…˜ì´ Begin_Transë¶€í„° ì‹¤í–‰ì„ ì‹œìž‘í•˜ì˜€ê±°ë‚˜ ì‹¤í–‰ ì¤‘ì¸ ìƒíƒœ
+    Partially committed ë¶€ë¶„ ì™„ë£Œ
+      íŠ¸ëžœìž­ì…˜ì´ ë§ˆì§€ë§‰ ëª…ë ¹ë¬¸ì„ ì‹¤í–‰í•œ ì§í›„ì˜ ìƒíƒœ
+    Failed ì‹¤íŒ¨
+      ì •ìƒì  ì‹¤í–‰ì„ ë” ì´ìƒ ê³„ì†í•  ìˆ˜ ì—†ì–´ì„œ ì¤‘ë‹¨í•œ ìƒíƒœ
+    Aborted ì² íšŒ
+      íŠ¸ëžœìž­ì…˜ì— ì‹¤íŒ¨í•˜ì—¬ Rollback ì—°ì‚°ì„ ìˆ˜í–‰í•œ ìƒíƒœ
+    Committed ì™„ë£Œ
+      íŠ¸ëžœìž­ì…˜ì´ ì‹¤í–‰ì„ ì„±ê³µì ìœ¼ë¡œ ì™„ë£Œí•˜ì—¬ Commit ì—°ì‚°ì„ ìˆ˜í–‰í•œ ìƒíƒœ
 
-  - Æ®·£Àè¼ÇÀÇ »óÅÂ
+  - íŠ¸ëžœìž­ì…˜ì˜ ìƒíƒœ
 </pre>
 <img src="/assets/img/transaction.png" style="width:700px;padding-left:80px;"/>
 
-<h1>DatabaseÀÇ µ¶¸³¼º</h1>
+<h1>Databaseì˜ ë…ë¦½ì„±</h1>
 <pre>
 
 </pre>
