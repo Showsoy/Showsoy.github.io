@@ -5,8 +5,7 @@ date: 2019-09-29
 categories: knowledge
 author: "showsoy"
 ---
-<h1>트랜잭션 (transaction)</h1>
-<p>&nbsp;</p>
+<h1>트랜잭션 (transaction)</h1><br/>
 <h4><br />○ 트랜잭션이란?</h4>
 <p style="padding-left: 30px;">트랜잭션은 하나의 논리적 기능을 수행하기 위한 작업의 단위<br /> 데이터베이스의 일관된 상태를 또 다른 일관된 상태로 변화시킴</p>
 <p style="padding-left: 30px;">&nbsp;</p>
@@ -19,4 +18,4 @@ author: "showsoy"
 <h4>○&nbsp;트랜잭션의 상태</h4>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<h1>Database의 독립성</h1>
+<h1>Database의 독립성</h1><br/>

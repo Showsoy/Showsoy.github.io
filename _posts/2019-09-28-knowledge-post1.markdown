@@ -5,8 +5,7 @@ date: 2019-09-29
 categories: knowledge
 author: "showsoy"
 ---
-<h1>SDLC (System Development Life Cycle)</h1>
-<h4>&nbsp;</h4>
+<h1>SDLC (System Development Life Cycle)</h1><br/>
 <h4>○소프트웨어의 생성 ~ 소멸</h4>
 <h4><br />○타당성조사 -&gt; 요구분석 -&gt; 설계 -&gt; 개발 -&gt; 테스트 -&gt; 유지보수 -&gt; 폐기&nbsp;</h4>
 <p style="padding-left: 30px;">1. 타당성조사 : 고객의 요구 사항이 실현 가능한지, 또 합리적인지를 판단. 현재 몸담고 있는 회사의 영업파트에서는 전혀 이루어지고 있지 않은 단계이다. 1단계 부터 글러먹은&nbsp;<br /> 2. 요구분석 : 요구사항에 대한 식별 및 상세화. 기능요구사항 / 비기능요구사항이 있다.&nbsp;<br /> 3. 설계 : 위의 요구사항 명세를 준수하는 소프트웨어 설계&nbsp;<br /> 4. 개발 및 구현 : 코딩 , 내가 하는거<br /> 5. 테스트 : V&amp;V . 검증(Verification) -&gt; 명세대로 기술되었고 동작하는가?, 확인(Validation) -&gt; 명세를 근간으로 사용자의 요구사항에 충족하는가?&nbsp;<br /> 6. 폐기 : 소프트웨어의 수명이 끝남.</p>
@@ -16,8 +15,7 @@ author: "showsoy"
 <p style="padding-left: 30px;">1. 프로젝트 규모와 성격<br /> 2. 개발방법과 관리방법의 연계성<br />3. 고객 요구사항에 대한 이해 수준과 변경 가능성<br />4. 프로젝트 진행 자원과 수행 능력</p>
 <p style="padding-left: 30px;">&nbsp;</p>
 <p style="padding-left: 30px;">&nbsp;</p>
-<h1>소프트웨어 개발방법론 (Software Development Methodology)</h1>
-<p>&nbsp;</p>
+<h1>소프트웨어 개발방법론 (Software Development Methodology)</h1><br/>
 <h4>○소프트웨어 개발의 전 단계에 대한 경험을 공학적 기법으로 정형화하여 체계를 잡고 표준화한 이론</h4>
 <h4><br />○개발방법론의 진화&nbsp; 구조적 기법 -&gt; 정보공학 기법 -&gt; 객체지향 기법 -&gt; CBD기법 -&gt; Agile (적시성 중시)</h4>
 <h4><br />○개발방법론의 구성요소&nbsp;</h4>
