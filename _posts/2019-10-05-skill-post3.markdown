@@ -1,0 +1,18 @@
+---
+layout: post
+title: "solr"
+date: 2019-10-05
+categories: skill
+author: "showsoy"
+---
+<h1>검색엔진 (Solr)</h1>
+<p>&nbsp;</p>
+<h4><br />○ Solr&nbsp; vs&nbsp; Elasticsearch</h4>
+<p style="padding-left: 30px;">두 검색엔진은&nbsp;Lucene을 기반으로 각자의 목적에 맞게 만들어졌다. 속도 면에서는 엘라스틱서치가 좀 더 우위에 있지만 문서 원문을 검색하기에는 솔라가 적합하기 때문에 solr를 선택했다. (자세한 비교내용은 추후 다시 정리하는 걸로)</p>
+<p style="padding-left: 30px;">&nbsp;</p>
+<h4>○ 솔라 시작하기</h4>
+<p style="padding-left: 30px;">$ cd /tmp<br /> $ wget&nbsp;<a href="https://archive.apache.org/dist/lucene/solr/6.3.0/solr-6.3.0.tgz" rel="nofollow">https://archive.apache.org/dist/lucene/solr/6.3.0/solr-6.3.0.tgz</a><br /> $ tar zxvf ./solr-6.3.0.tgz<br /> $ cd solr-6.3.0/bin</p>
+<p style="padding-left: 30px;">./solr start -p 8983</p>
+<p style="padding-left: 30px;"><em>&nbsp;-&gt; 현재 8버전까지 나왔고 standard 버전은 7임</em></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
